@@ -1,0 +1,104 @@
+{
+  "topics": [
+    {
+      "name": "Circles",
+      "sub_topics": [
+        "Circumference and Arc Length",
+        "Central and Inscribed Angles",
+        "Chords and Tangents",
+        "Power of a Point",
+        "Inscribed and Circumscribed Circles"
+      ]
+    },
+    {
+      "name": "Triangles",
+      "sub_topics": [
+        "Area and Altitude",
+        "Pythagorean Theorem",
+        "Similar Triangles",
+        "Congruent Triangles",
+        "Angle Bisectors and Medians"
+      ]
+    },
+    {
+      "name": "Trigonometry",
+      "sub_topics": [
+        "Sine, Cosine, and Tangent",
+        "Trigonometric Identities",
+        "Solving Trigonometric Equations",
+        "Applications of Trigonometry",
+        "30-60-90 and 45-45-90 Triangles"
+      ]
+    },
+    {
+      "name": "Quadrilaterals",
+      "sub_topics": [
+        "Squares and Rectangles",
+        "Parallelograms and Trapezoids",
+        "Kites and Cyclic Quadrilaterals",
+        "Area and Perimeter Relationships",
+        "Midpoint and Diagonal Properties"
+      ]
+    },
+    {
+      "name": "Solids",
+      "sub_topics": [
+        "Volume and Surface Area of Cubes",
+        "Volume and Surface Area of Cylinders",
+        "Volume and Surface Area of Cones",
+        "Volume and Surface Area of Pyramids",
+        "Solids formed by Rotation"
+      ]
+    },
+    {
+      "name": "Coordinate Geometry",
+      "sub_topics": [
+        "Distance Formula and Midpoint Formula",
+        "Slope and Equations of Lines",
+        "Parallel and Perpendicular Lines",
+        "Reflections and Translations",
+        "Applications to Geometric Figures"
+      ]
+    },
+    {
+      "name": "Geometric Transformations",
+      "sub_topics": [
+        "Translations and Reflections",
+        "Rotations and Dilations",
+        "Symmetry and Transformations",
+        "Similarity and Congruence",
+        "Applications to Geometric Problems"
+      ]
+    },
+    {
+      "name": "Geometric Inequalities",
+      "sub_topics": [
+        "Triangle Inequality",
+        "Angle-Side Relationships",
+        "Inequalities in Triangles and Quadrilaterals",
+        "Applications to Optimization Problems",
+        "Geometric Probability"
+      ]
+    },
+    {
+      "name": "Geometric Constructions",
+      "sub_topics": [
+        "Basic Constructions with Compass and Straightedge",
+        "Constructing Triangles and Quadrilaterals",
+        "Constructing Tangent Lines and Circles",
+        "Applications to Geometric Problems",
+        "Geometric Loci"
+      ]
+    },
+    {
+      "name": "Advanced Geometry",
+      "sub_topics": [
+        "Ceva's Theorem and Menelaus' Theorem",
+        "Ptolemy's Theorem and Stewart's Theorem",
+        "Incenter-Excenter Lemma",
+        "Projective Geometry Concepts",
+        "Applications to Olympiad Problems"
+      ]
+    }
+  ]
+}

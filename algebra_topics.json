@@ -1,0 +1,102 @@
+{
+    "topics": [
+        {
+            "name": "Numbers and Operations",
+            "sub_topics": [
+                "Real numbers and their properties",
+                "Operations with real numbers",
+                "Exponents and scientific notation",
+                "Rational and irrational numbers",
+                "Number systems"
+            ]
+        },
+        {
+            "name": "Equations and Inequalities",
+            "sub_topics": [
+                "Solving linear equations and inequalities",
+                "Solving quadratic equations and inequalities",
+                "Solving systems of equations and inequalities",
+                "Absolute value equations and inequalities",
+                "Applications of equations and inequalities"
+            ]
+        },
+        {
+            "name": "Functions",
+            "sub_topics": [
+                "Definition and notation of functions",
+                "Domain and range of functions",
+                "Evaluating functions",
+                "Graphing functions",
+                "Inverse functions"
+            ]
+        },
+        {
+            "name": "Linear Functions and Equations",
+            "sub_topics": [
+                "Slope and intercepts of linear functions",
+                "Writing equations of lines",
+                "Graphing linear functions",
+                "Parallel and perpendicular lines",
+                "Applications of linear functions"
+            ]
+        },
+        {
+            "name": "Quadratic Functions and Equations",
+            "sub_topics": [
+                "Standard form and vertex form of quadratic functions",
+                "Graphing quadratic functions",
+                "Solving quadratic equations",
+                "Applications of quadratic functions"
+            ]
+        },
+        {
+            "name": "Polynomials",
+            "sub_topics": [
+                "Definition and terminology of polynomials",
+                "Operations with polynomials",
+                "Factoring polynomials",
+                "Roots and zeros of polynomials",
+                "Applications of polynomials"
+            ]
+        },
+        {
+            "name": "Exponents and Logarithms",
+            "sub_topics": [
+                "Properties of exponents",
+                "Exponential functions and their graphs",
+                "Definition and properties of logarithms",
+                "Solving exponential and logarithmic equations",
+                "Applications of exponents and logarithms"
+            ]
+        },
+        {
+            "name": "Sequences and Series",
+            "sub_topics": [
+                "Arithmetic sequences and series",
+                "Geometric sequences and series",
+                "Infinite geometric series",
+                "Applications of sequences and series"
+            ]
+        },
+        {
+            "name": "Complex Numbers",
+            "sub_topics": [
+                "Definition and operations with complex numbers",
+                "Complex plane and graphical representation",
+                "Conjugates and modulus of complex numbers",
+                "Powers of $i$",
+                "Applications of complex numbers"
+            ]
+        },
+        {
+            "name": "Analytic Geometry",
+            "sub_topics": [
+                "Coordinate plane and distance formula",
+                "Midpoint formula and slope formula",
+                "Equations of lines and circles",
+                "Graphing and analyzing geometric figures",
+                "Applications of analytic geometry"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+notebook
+ipython
+ipywidgets
+sympy
+openai
+tiktoken
+tenacity
+python-dotenv
+instructor==0.6.8

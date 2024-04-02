@@ -1,0 +1,104 @@
+{
+  "topics": [
+    {
+      "name": "Counting Techniques",
+      "sub_topics": [
+        "Basic Counting Principles",
+        "Permutations and Combinations",
+        "Combinatorial Identities",
+        "Generating Functions",
+        "Inclusion-Exclusion Principle"
+      ]
+    },
+    {
+      "name": "Probability Theory",
+      "sub_topics": [
+        "Sample Spaces and Events",
+        "Probability Axioms and Properties",
+        "Conditional Probability",
+        "Independence and Bayes' Theorem",
+        "Probability Distributions"
+      ]
+    },
+    {
+      "name": "Expected Value",
+      "sub_topics": [
+        "Definition and Properties",
+        "Linearity of Expectation",
+        "Expected Value of Discrete Random Variables",
+        "Applications of Expected Value",
+        "Geometric Probability"
+      ]
+    },
+    {
+      "name": "Discrete Random Variables",
+      "sub_topics": [
+        "Bernoulli and Binomial Distributions",
+        "Geometric and Negative Binomial Distributions",
+        "Poisson Distribution",
+        "Hypergeometric Distribution",
+        "Multinomial Distribution"
+      ]
+    },
+    {
+      "name": "Combinatorics on Graphs",
+      "sub_topics": [
+        "Eulerian and Hamiltonian Paths and Circuits",
+        "Matchings and Colorings",
+        "Planar Graphs and Euler's Formula",
+        "Ramsey Theory",
+        "Graph Isomorphisms"
+      ]
+    },
+    {
+      "name": "Number Theory and Combinatorics",
+      "sub_topics": [
+        "Divisibility and Modular Arithmetic",
+        "Prime Numbers and Factorization",
+        "Diophantine Equations",
+        "Combinatorial Number Theory",
+        "Generating Functions in Number Theory"
+      ]
+    },
+    {
+      "name": "Recurrence Relations",
+      "sub_topics": [
+        "Linear Recurrence Relations",
+        "Generating Functions for Recurrence Relations",
+        "Solving Recurrence Relations",
+        "Applications of Recurrence Relations",
+        "Divide and Conquer Algorithms"
+      ]
+    },
+    {
+      "name": "Advanced Counting Techniques",
+      "sub_topics": [
+        "Stirling Numbers",
+        "Catalan Numbers",
+        "Bell Numbers",
+        "Polya's Enumeration Theorem",
+        "Asymptotic Methods"
+      ]
+    },
+    {
+      "name": "Probability Applications",
+      "sub_topics": [
+        "Games of Chance",
+        "Statistical Inference",
+        "Random Walks and Markov Chains",
+        "Stochastic Processes",
+        "Financial Mathematics"
+      ]
+    },
+    {
+      "name": "Problem Solving Strategies",
+      "sub_topics": [
+        "Casework and Complementary Counting",
+        "Pigeonhole Principle",
+        "Invariance and Symmetry",
+        "Extremal Combinatorics",
+        "Combinatorial Proofs"
+      ]
+    }
+  ]
+}
